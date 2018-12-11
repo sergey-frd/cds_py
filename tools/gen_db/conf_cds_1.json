@@ -1,0 +1,230 @@
+{
+   "comment": "",
+   "Base": {
+      "project_name": "cpss",
+      "release_date": "1805",
+      "release_YYYY_MM": "2018.5",
+      "release_number": "4.2",
+      "project_number": "317",
+      "create_date": "180605",
+      "out_base_name": "CPSS_UserGuide_API",
+      "internal_ug_text": "CPSS_Internal_UserGuide_Text",
+      "cpss_internal_API_xml": "CPSS_Internal_UserGuide_API",
+      "cpss_internal_API_text": "CPSS_Internal_UserGuide_Text",
+      "config_doxy_dir": "Config_UserGuide_API",
+      "out_base_root": "c:/Git",
+      "src_clone_path": "c:/Git/w01",
+      "src_cpss_path": "c:/Git/w01/cpss",
+      "release_clone_path": "c:/Git/w01",
+      "release_cpss_path": "c:/Git/w01/cpss",
+      "bin_doxygen": "c:/Program Files/doxygen/bin/doxygen.exe",
+      "bin_7z": "c:/Program Files/7-Zip/7z.exe",
+      "out_csv_base": "log",
+      "in_html_base": "//Fileril103/dev/Objects/cpss/bin_history/UG/Ug_180604/CPSS_User_Guide-Responsive_HTML5",
+      "in_html_Internal": "//Fileril103/dev/Objects/cpss/bin_history/UG/Ug_180604/CPSS_User_Guide-Responsive_HTML5",
+      "in_html_DXCH": "//Fileril103/dev/Objects/cpss/bin_history/UG/Ug_180604/CPSS_User_Guide-Responsive_HTML5",
+      "in_html_PIPE": "//Fileril103/dev/Objects/cpss/bin_history/UG/Ug_180604/CPSS_User_Guide_PIPE-Responsive_HTML5",
+      "in_html_base_ug": "//Fileril103/dev/Objects/cpss/bin_history/UG/Ug_180604/CPSS_User_Guide-Responsive_HTML5/CPSS_User_Guide/",
+      "update_html_base": "//Fileril103/dev/Objects/cpss/bin_history/UG/Update/",
+      "update_html_path": "//Fileril103/dev/Objects/cpss/bin_history/UG/Update/CPSS_User_Guide",
+
+      "comment": "API_Appendix/API_Appendix.htm",
+      "comment": "Preface/Navigating_the_API_Appendix.htm",
+      "comment": "Preface/Preface.htm",
+
+      "update_html_name": "API_Appendix/API_Appendix.htm",
+      "update_html_name_Internal": "API_Appendix/API_Appendix.htm",
+      "update_html_name_DXCH": "API_Appendix/API_Appendix.htm",
+      "update_html_name_PIPE": "API_Appendix/API_Appendix.htm",
+
+      "html_menu_path": "//Fileril103/dev/Objects/cpss/bin_history/UG/Update/CPSS_User_Guide/menu_2/menudata.js",
+      "not_ASCII_files__csv": "not_ASCII_files_",
+      "set_get_api__csv": "set_get_api.csv",
+      "filter_api__csv": "filter_api.csv",
+      "filter_total__csv": "filter_total_api.csv",
+      "copy_api__csv": "copy_api.csv",
+      "doxy_file": "Doxyfile",
+      "doxy_base_file": "Doxyfile_all_xxx",
+      "doxy_user_file": "Doxyfile_user_xxx",
+      "ug_doxy_user": "CPSS_UG_HTML5_",
+      "ug_doxy_internal": "CPSS_internal_UG_HTML5_",
+      "dxy_base_config": "Doxyfile_all_xxx",
+      "temp_dir": "c:/temp",
+      "create_cust_temp_dxy_bat": "c:/temp/create_cust_temp_dxy.bat",
+      "create_customer_dxy_bat": "c:/temp/create_customer_dxy.bat",
+      "create_internal_dxy_bat": "c:/temp/create_internal_dxy.bat",
+      "create_ug_zip_dxy_bat": "create_ug_zip",
+      "ug_zip_exclude": "exclude.lst",
+      "exclude_txt": "*/xml/*.*",
+      "conf_doxy_log_user": "Doxy_user.log",
+      "conf_doxy_log_internal": "Gen_CPSS_Internal_API.log",
+      "end_list_name": "End_List.inc",
+      "start_list_name": "Start_List.inc",
+      "private": "Y",
+      "family": "Internal_API",
+      "db_name": "dxy.db",
+
+      "cpss_last_name": "cpss_Internal_API",
+      "cpss_user_name": "cpss_user_api",
+      "cpss_check_name": "cpss_check_internal_apt",
+      "cpss_skip_name": "cpss_skip_internal_ap",
+      "cpss_html_user_name": "cpss_User_",
+      "name_api_tbl": "api_tbl",
+      "name_struct_tbl": "struct_tbl",
+      "name_enum_tbl": "enum_tbl",
+      "name_union_tbl": "union_tbl",
+      "name_file_tbl": "file_tbl",
+      "name_define_tbl": "define_tbl",
+      "name_variable_tbl": "variable_tbl",
+      "name_not_ug_dx_list": "Not_cpssDx_UG_list.txt",
+      "name_not_ug_px_list": "Not_cpssPx_UG_list.txt",
+      "cpss_user_name_xml": "cpss_user_",
+      "cpss_internal_name_xml": "cpss_internal_",
+      "db_name_user": "dxy_user.db",
+      "db_name_internal": "dxy_internal.db",
+      "out_ug_name_1": "CPSS_UG_HTML5",
+      "out_ug_name_1_int": "CPSS_internal_UG_HTML5",
+      "out_ug_name_2": "CPSS_User_Guide",
+      "out_ug_name_internal": "CPSS_User_Guide_Internal",
+
+
+      "case_check_cust_is_Ascii":    "Y",
+      "case_check_intr_is_Ascii":    "Y",
+                                      
+      "comment": "***************",   
+      "case_UG_Families":            "Y",
+      "comment": "***************",   
+      "case_copy4ug_cust_temp":      "Y",
+      "case_doxy_temp_congig_gen":   "Y",
+      "case_doxy_temp_html_gen":     "Y",
+      "case_convert_2_asci":         "Y",
+      "case_ug_filter":              "Y",
+      "case_copy_4_cpss_family":     "Y",
+      "case_doxy_ug_congig_gen":     "Y",
+      "case_doxy_ug_html_gen":       "Y",
+      "comment": "***************",   
+      "case_copy_4_ug_cust":         "Y",
+      "case_user_xml":               "Y",
+      "case_dxy_html_link_cust":     "Y",
+      "case_update_html_cust":       "Y",
+      "case_not_ug_lists":           "Y",
+      "case_doxy_ug_zip":            "Y",
+
+      "comment": "***************",
+      "case_UG_Internal":            "Y",
+      "comment": "***************",
+      "case_copy_4_start":           "Y",
+      "case_copy_4_ug_intr":         "Y",
+      "case_doxy_intern_congig_gen": "Y",
+      "case_doxy_intern_html_gen":   "Y",
+      "case_internal_xml":           "Y",
+      "case_dxy_html_link_intr":     "Y",
+      "case_update_html_intr":       "Y",
+      "case_code_clean_up_cust":     "Y",
+      "case_code_clean_up_intr":     "Y",
+      "case_code_clean_up_all":      "Y"
+
+   },
+   "Family_UG": {
+         "DXCH": "CPSS_User_Guide",
+         "PIPE": "CPSS_User_Guide_PIPE"
+   },
+
+   "Family_List": {
+      "family_name_list": {
+         "DXCH": [
+            "common",
+            "mainTmDrv",
+            "mainPpDrv"
+         ],
+         "PIPE": [
+            "common",
+            "mainPxDrv"
+         ]
+      }
+   },
+
+   "Private_API": {
+      "Private_API_list": [
+         "PRV_CPSS_DXCH_BOBCAT2_BASE_ADDRESS_TTI_CNS",
+         "PRV_CPSS_DXCH_BOBCAT2_BASE_ADDRESS_GOP_CNS",
+         "PRV_CPSS_DXCH_TABLES_INFO_DIRECT_UNIT_STC",
+         "PRV_CPSS_DXCH_TABLE_ENT",
+         "PRV_CPSS_DXCH_LION3_TABLE_HA_PTP_DOMAIN_E",
+         "PRV_CPSS_MAPPING_DEBUG_CNS",
+         "prvCpssDrvEventsMask",
+         "PRV_CPSS_XCAT_INT_CAUSE_ENT",
+         "PRV_CPSS_LION2_INT_CAUSE_ENT",
+         "PRV_CPSS_BOBCAT2_INT_CAUSE_ENT",
+         "PRV_CPSS_BOBK_INT_CAUSE_ENT",
+         "PRV_CPSS_ALDRIN_INT_CAUSE_ENT",
+         "PRV_CPSS_BOBCAT3_INT_CAUSE_ENT",
+         "prvCpssDrvPpPortGroupIntCheetahIntCauseToUniEvConvert",
+         "prvCpssDrvPpIntCheetahUniEvToIntCauseConvert",
+         "prvCpssDrvDxChPrintEvents",
+         "PRV_CPSS_DXCH_FER_FDB_AUQ_LEARNING_AND_SCANING_DEADLOCK_WA_EWA",
+         "PRV_CPSS_GEN_PP_CONFIG_STC",
+         "PRV_CPSS_DXCH_PORT_NUM_TM_TxDMA_CNS",
+         "PRV_CPSS_DXCH_PORT_NUM_TM_TxQ_CNS",
+         "prvCpssTmDumpPort",
+         "PRV_CPSS_DXCH_NET_DSA_TAG_CPU_CODE_ENT",
+         "prvCpssDxChNetIfCpuToDsaCode",
+         "prvCpssDxChUnitsBaseAddrXcat3AndXcat",
+         "prvNoKmDrv_configure_dma",
+         "prvCpssDx",
+         "prvTcamLibInit",
+         "prvCpssDxChCncCounterHwToSw",
+         "prvCpssDxChCncCounterSwToHw"
+      ]
+   },
+   "Path": {
+      "Path_list": [
+         "common",
+         "cpssEnabler",
+         "lua_cli",
+         "luaCLI_standalone",
+         "mainExtUtils",
+         "mainGaltisWrapper",
+         "mainLuaWrapper",
+         "mainPpDrv",
+         "mainPxDrv",
+         "mainTmDrv",
+         "mainUT",
+         "referenceHal",
+         "shlibTestClients",
+         "simulation",
+         "tools"
+      ]
+   },
+   "Pref_4": {
+      "pref_4_list": [
+         "4",
+         "CPSS",
+         "cpss"
+      ]
+   },
+   "Skip": {
+      "Skip_list": [
+         "mainLuaWrapper/data",
+         "cpssEnabler/mainExtDrv/src/gtExtDrv/linuxNoKernelModule/drivers"
+      ]
+   },
+   "Customer_Path": {
+      "customer_path_list": [
+         "common",
+         "mainTmDrv",
+         "mainPpDrv",
+         "mainPxDrv"
+      ]
+   },
+   "Not_used": {
+        "Case_Not_used": {
+                 "case_copy_4_customer":        "nYn",
+                 "case_code_clean_up_cust":     "nNn",
+                 "case_user_file_xml":          "nNn",
+                 "case_set_get_api":            "nNn",
+                 "case_gen_appendix":           "nNn",
+                 "case_doxy_ug_rename":         "Yn"
+        }
+    }
+}

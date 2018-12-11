@@ -1,0 +1,35 @@
+{
+   "comment": "",
+   "Base": 
+   {
+
+        "project_name": "cdc",
+        "release_number": "0.3",
+        "CASE_DB_PRINT_ALL": "nY",
+        "CASE_DB_PRINT_TBL": "nY",
+        "Clip_Budget_Max": 50,
+        "Clip_Budget_Min": 10,
+        "Clip_Budget_Start": 10000,
+        "Clip_Budget_End": 10,
+        "D_Sign_Counter": 3,
+        "D_Sign_Used_Counter": 20,
+        "Dig_Sign_Max_Time_Interv_Price": 10000000,
+        "Dig_Sign_Time_Int_SQR_min": 0.6,
+        "Dig_Sign_Time_Int_SQR_max": 0.95,
+        "Digital_Signage_Cost_Max": 9,
+        "Digital_Signage_Cost_Min": 1,
+        "Owner_Counter": 5,
+        "Time_Interval_Counter": 4,
+        "Time_Interval_People": 5,
+        "Time_Slot_Cost": 5,
+        "Time_Slot_Busy_Pers": 85,
+        "User_Clip_Counter": 3,
+        "User_Counter": 5,
+        "Neighborhoods_Counter": 7,
+        "User_Clip_Neighborhood_Counter": 3,
+        "ID_Test_Country": "1",
+        "ID_Test_City": "1",
+        "Min_4_Piople_Price": "0.00000008",
+        "Input_DB": "c:\\Git\\ws01\\cds\\DB\\009\\db_0.3_009.db"
+    }
+}
